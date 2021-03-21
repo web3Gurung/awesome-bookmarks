@@ -13,6 +13,7 @@ Kindly note that I am just curating this list, the credits all goes to the respe
 ## Bash Scripting
 - [Bash Academy](https://guide.bash.academy/)
 - Ultimate Bash Crash Course - 69 mins read! - Medium [link](https://zach-gollwitzer.medium.com/the-ultimate-bash-crash-course-cb598141ad03)
+- Amazing intro to [bash book](https://github.com/bobbyiliev/introduction-to-bash-scripting) by Bobby Iliev which ships in dark & light mode.
 
 <br>
 ## Coding and Interview
