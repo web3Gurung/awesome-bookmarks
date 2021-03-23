@@ -1,5 +1,5 @@
 # awesome-bookmarks
-Repo of links to sites which will be needed later
+Repo of links to sites which will be needed later in the near future/
 
 <br>
 
@@ -16,6 +16,18 @@ Kindly note that I am just curating this list, the credits all goes to the respe
 - Amazing intro to [bash book](https://github.com/bobbyiliev/introduction-to-bash-scripting) by Bobby Iliev which ships in dark & light mode.
 
 <br>
+
+## OSCP
+- The [Awesome-OSCP](https://github.com/0x4D31/awesome-oscp) github.
+- [The Ultimate OSCP Preparation Guide, 2021](https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/) by John J.
+
+<br>
+
+## Books
+- EBooks from The EbookFoundation [site](https://ebookfoundation.github.io/free-programming-books/) and their [github](https://github.com/EbookFoundation/free-programming-books).
+
+<br>
+
 ## Coding and Interview
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) is one of the finest resource.
 
