@@ -41,3 +41,9 @@ Kindly note that I am just curating this list, the credits all goes to the respe
 ## Android App development
 - [MindOrks](https://github.com/mindorksopensource) - has [roadmap](https://github.com/MindorksOpenSource/android-developer-roadmap), course, interview questions.
 
+
+<br>
+
+## Bug Bounty
+- [Bug bounty guide](https://github.com/bobby-lin/bug-bounty-guide) by bobby-lin.
+- For reading great publicly disclosed reports - [pentesterland](https://pentester.land/list-of-bug-bounty-writeups.html).
