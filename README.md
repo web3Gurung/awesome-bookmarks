@@ -47,3 +47,8 @@ Kindly note that I am just curating this list, the credits all goes to the respe
 ## Bug Bounty
 - [Bug bounty guide](https://github.com/bobby-lin/bug-bounty-guide) by bobby-lin.
 - For reading great publicly disclosed reports - [pentesterland](https://pentester.land/list-of-bug-bounty-writeups.html).
+
+<br>
+
+## Operating Systems
+- A book which I need to read is [bottomupcs](https://www.bottomupcs.com/) book.
