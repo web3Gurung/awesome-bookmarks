@@ -50,7 +50,12 @@ Kindly note that I am just curating this list, the credits all goes to the respe
 
 <br>
 
-## Operating Systems
+## Operating Systems, Low level
+- [OS dev wiki](https://wiki.osdev.org/Expanded_Main_Page)
 - A book which I need to read is [bottomupcs](https://www.bottomupcs.com/) book.
 - a wiki on Linux system's programming - [here](https://github.com/angrave/SystemProgramming/wiki)
 - Redox OS's [docs](https://doc.redox-os.org/book)
+- Low level programming university on [Github](https://github.com/gurugio/lowlevelprogramming-university)
+- [awesome-os-dev](https://github.com/petehouston/awesome-os-dev)
+- Crowd sourced [course book](https://github.com/illinois-cs241/coursebook/wiki) built by students and faculty of University of Illinois.
+- OS in C++ - [github](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System), [gitbook](https://samypesse.gitbook.io/how-to-create-an-operating-system/)
