@@ -59,3 +59,5 @@ Kindly note that I am just curating this list, the credits all goes to the respe
 - [awesome-os-dev](https://github.com/petehouston/awesome-os-dev)
 - Crowd sourced [course book](https://github.com/illinois-cs241/coursebook/wiki) built by students and faculty of University of Illinois.
 - OS in C++ - [github](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System), [gitbook](https://samypesse.gitbook.io/how-to-create-an-operating-system/)
+- [Linux-insides](https://github.com/0xAX/linux-insides/blob/master/SUMMARY.md) from Github.
+
